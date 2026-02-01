@@ -63,3 +63,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## How to Contribute
+
+Found a great Lil Nouns project? Submit a pull request to add it to this list! Please ensure the project is active and adds value to the community.
